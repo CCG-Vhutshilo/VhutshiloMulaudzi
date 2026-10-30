@@ -15,7 +15,7 @@ where the answer is a clear model rather than more code.
 
 ### Currently
 
-**Junior Software Developer at CCG Systems** (since 2024, from a traineeship earlier that year).
+** Software Developer at CCG Systems** (since 2023).
 
 Day to day I work across a multi-repository platform of six Angular applications and five
 ASP.NET Core APIs over a shared SQL Server database project, delivering features end to end:
